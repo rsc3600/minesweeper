@@ -1,0 +1,17 @@
+HIGH SCORES 15
+
+user10 9
+user12 21
+user8 22
+user11 23
+user6 25
+user9 30
+user2 31
+user3 32
+user13 33
+user14 34
+user5 36
+user15 37
+user7 37
+user4 64
+user1 106
